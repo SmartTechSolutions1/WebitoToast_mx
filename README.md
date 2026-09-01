@@ -6,7 +6,7 @@
 
 Bienvenido al repositorio oficial del sitio web de **Webito Toast MX**, una propuesta gastronómica (desayunos y brunch) respaldada por la infraestructura tecnológica de SmartTech Solutions.
 
-🔗 **[Visitar el Sitio Web en Vivo](https://smarttechsolutions1.github.io/webito_toast_mx/)**
+🔗 **[Visitar el Sitio Web en Vivo](https://smarttechsolutions1.github.io/WebitoToast_mx/)**
 
 ## Sobre el Proyecto
 
